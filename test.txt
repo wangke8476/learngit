@@ -1,0 +1,14 @@
+﻿data: {
+	"semantic": {
+		"operation": "UPLOAD_CONTACT",
+		"service": "OPERATION_WEIXIN"
+	},
+	"focus": "weixin",
+	"messageType": "REQUEST",
+	"needResponse": "YES",
+	"operationApp": "speech",
+	"protocolId": 0,
+	"requestCode": "10009",
+	"statusCode": 0,
+	"version": "v1.0"
+}
